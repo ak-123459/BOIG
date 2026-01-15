@@ -1,6 +1,6 @@
 {
-    "wake_phrase": "hello aptal",
-    "negative_phrases": "./src/negative_pharse.yaml",
+    "wake_phrase": "hello ap_tal",
+    "negative_phrases": "/WakeUpAptal/negative_pharse.yaml",
     "target_positive_samples": 30000,
     "target_negative_samples": 30000,
     "sample_rate": 16000,
